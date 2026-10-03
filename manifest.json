@@ -1,0 +1,17 @@
+{
+  "name": "Nagi · 凪",
+  "short_name": "Nagi",
+  "description": "慢调书信与静谧空间 — 让每一封信慢慢抵达",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#F5F0E8",
+  "icons": [
+    {
+      "src": "/globe.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
